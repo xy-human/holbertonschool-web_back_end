@@ -1,1 +1,1 @@
-# 0x0F. ES6 Promises
+# 0x11. ES6 data manipulation
