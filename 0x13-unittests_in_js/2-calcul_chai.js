@@ -1,4 +1,5 @@
 function calculateNumber(type, a, b) {
+
   if (Number.isNaN(a) || Number.isNaN(b))
     throw TypeError;
 
